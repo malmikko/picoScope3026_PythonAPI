@@ -1,0 +1,3 @@
+Python wrapper for PicoScope 3026
+PicoSDK (ps3000.dll) is needed. Source: https://www.picotech.com/downloads
+Required python libs: numpy
